@@ -1,5 +1,5 @@
 # Working Prototype for Accessible Washroom Occupancy Status & Usage Analysis 
-This repository contains working code for an Internet of Things (IoT) system that aims to enhance convenience, safety and cleanliness of accessible washrooms. 
+This repository contains working code for an Internet of Things (IoT) system that aims to enhance the convenience, safety and cleanliness of accessible washrooms. 
 
 The system integrates Micro:bit sensors (affixed on door locks) with backend systems to update various stakeholders on the live occupancy status of washrooms and sends alerts when there are incidents concerning safety and cleanliness.
 
