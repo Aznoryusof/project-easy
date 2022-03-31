@@ -27,5 +27,5 @@ sql/
 ```
 * Tableau Dashboards
 ```
-dashboards/local
+dashboards/local/
 ```
