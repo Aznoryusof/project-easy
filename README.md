@@ -3,7 +3,7 @@ This repository contains working code for an Internet of Things (IoT) system tha
 
 The system integrates Micro:bit sensors (affixed on door locks) with backend systems to update various stakeholders on the live occupancy status of washrooms and sends alerts when there are incidents concerning safety and cleanliness.
 
-A Tableau dashboard is also available to analyse usage of accessible washrooms.
+A Tableau dashboard is also available to analyse the data collected from the smart washroom and optimise cleaning schedules.
 # POC Architecture
 ![My Image](POC-Architecture.jpg)
 
