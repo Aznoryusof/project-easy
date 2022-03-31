@@ -1,7 +1,7 @@
 archive
 dashboards/archive
-mqtt/.vscode
-mqtt/src/__pycache__
-mqtt/src/config_demo.py
-mqtt/src/config_dev.py
+gateway-backend/.vscode
+gateway-backend/src/__pycache__
+gateway-backend/src/config_demo.py
+gateway-backend/src/config_dev.py
 references

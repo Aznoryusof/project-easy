@@ -15,11 +15,11 @@ microbit/
 ```
 * Gateway publisher
 ```
-mqtt/src/gateway_publisher.py
+gateway-backend/src/gateway_publisher.py
 ```
 * Backend subscriber & logic
 ```
-mqtt/src/mqtt_subscriber.py
+gateway-backend/src/mqtt_subscriber.py
 ```
 * MySQL database logical design
 ```
